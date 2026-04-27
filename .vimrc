@@ -42,10 +42,10 @@ filetype indent on
 set autoindent
 
 " Set shift width to 2 spaces
-set shiftwidth=2
+set shiftwidth=4
 
 " Set tab width to 2 columns
-set softtabstop=2
+set softtabstop=4
 
 " Use spaces instead of tabs
 set expandtab
